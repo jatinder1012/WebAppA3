@@ -20,7 +20,7 @@ namespace WebAppA3.Data
         protected override void OnModelCreating(ModelBuilder modelBuilder)
         {
             base.OnModelCreating(modelBuilder);
-            // Additional model configurations can go here
+           
         }
     }
 }
